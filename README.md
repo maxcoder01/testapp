@@ -1,4 +1,4 @@
-# testapp
+# Testapp
 Test my app on GitHub
-# test SSH
+# Test SSH
 # Second test SSH
